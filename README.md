@@ -1,7 +1,10 @@
 Tugas UAS Pengolahan Citra
-Nama : Achmad Rudi Antoni
-NPM  : 21010031
 
+Nama : Achmad Rudi Antoni
+
+NPM  : 21010031
+#
+#
 
 aplikasi Python ini dibuat menggunakan Visual Studio Code
 
