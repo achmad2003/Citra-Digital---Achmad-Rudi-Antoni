@@ -1,3 +1,8 @@
+Tugas UAS Pengolahan Citra
+Nama : Achmad Rudi Antoni
+NPM  : 21010031
+
+
 aplikasi Python ini dibuat menggunakan Visual Studio Code
 
 ![image](https://github.com/achmad2003/Citra-Digital---Achmad-Rudi-Antoni/assets/171172386/1a8f54ed-de25-4f2a-81fd-d8aa815e0956)
